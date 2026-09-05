@@ -22,13 +22,13 @@ title: Alex Sareh
 email: asareh3@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Alive I think
-baseurl: "UpbeatTurtle.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  UpbeatTurtle
 permalink: /projects/:title #for the projects page
 # Build settings
-theme: garth-jekyll-theme
+#theme: garth-jekyll-theme
 plugins:
   - jekyll-feed
 logo: ./assets/logo.jfif
