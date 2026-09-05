@@ -1,0 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: About me
+layout: page
+#format for links is [jekyllrb.com](https://jekyllrb.com/)
+---
+Hi! I'm an undergraduate student at Georgia Tech, pursuing a Bachelor of Science in Computer Engineering with concentrations in Computing Hardware & Emerging Architectures and Systems & Architecture.
+
+Checkout the projects page 
+
+This website is still a WIP
